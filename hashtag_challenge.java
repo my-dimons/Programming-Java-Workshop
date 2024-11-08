@@ -1,4 +1,3 @@
-
 import java.util.Scanner;  // Import the Scanner class
 // OCT 24, 2024
 
