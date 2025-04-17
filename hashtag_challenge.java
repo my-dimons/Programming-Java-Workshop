@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import java.util.Scanner; // Import the Scanner class
-=======
-import java.util.Scanner;  // Import the Scanner class
->>>>>>> 25382d5830365e72978a054e00f77845437a2d19
 // OCT 24, 2024
 
 class hashtag_challenge {
